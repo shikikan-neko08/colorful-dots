@@ -7,4 +7,8 @@
 This is the configuration that i used for my bspwm desktop on LangitKetujuh OS yesterday. feel free to git clone everything and modify to your own needs.     
        
 cheers      
-shikikan-neko08
+shikikan-neko08     
+
+
+# Artist Credit     
+https://www.pixiv.net/users/33886650
